@@ -15,7 +15,7 @@ const QUIZDATA = { title: '10 Pytań do Marzeń', questions: [
     { title: '4. Rozumiem. A czy chciałabyś poznać sposób, który działa dla mnie i moich partnerek?', ans1: 'TAK', ans2: 'NIE', subq2: {
         title: 'OK, to też jest decyzja. Gdybyś kiedyś zmieniła zdanie, jestem tu \ud83d\udc9b'
     } },
-    { title: '5. Super! Ile byłabyś gotowa zainwestować w spełnienie swojego marzenia?', ans1: 'więcej niż pensja', ans2: 'mniej niż pensja' },
+    { title: '5. Super! Ile byłabyś gotowa zainwestować w spełnienie swojego marzenia?', ans1: 'więcej\u2009niż pensja', ans2: 'mniej niż pensja' },
     { title: '6. A teraz wyobraź sobie, że możesz zacząć od 1500 zł. Czy to dla Ciebie możliwe?', ans1: 'TAK', ans2: 'NIE / NIE\xa0WIEM', subq2: {
         title: 'A czy chciałabyś, aby to było dla Ciebie możliwe?', ans1: 'TAK', ans2: 'NIE', subq2: {
             title: 'Szanuję twoją decyzję. Jeżeli kiedykolwiek zmienisz zdanie, pamiętaj \u2013 jestem \ud83d\udc9b'
